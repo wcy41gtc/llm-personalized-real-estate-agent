@@ -1,0 +1,9 @@
+name: project_env
+dependencies:
+  - python=3.10
+  - pip:
+    - numpy==1.26.4
+    - pandas==2.2.1
+    - openai==1.16.2
+    - lancedb==0.6.7
+    - gradio==4.24.0
